@@ -17,3 +17,6 @@ This repository presents a data storytelling case study highlighting the critica
 - [ICTWorks – Digital Technology in Rural Classrooms](https://www.ictworks.org/digital-technology-education-rural-classroom/)
 - [UNICEF – Rural Education Africa Statistics](https://www.unicef.org/)
 
+BY : FATMA BADAWY 
+
+FATTO 
